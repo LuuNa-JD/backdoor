@@ -8,7 +8,7 @@ from PIL import Image
 
 
 
-HOST_IP = '192.168.1.102'
+HOST_IP = 'LOCALHOST'
 HOST_PORT = 9999
 MAX_DATA_SIZE = 1024
 
